@@ -16,10 +16,5 @@ The final dataset is formatted like this: ![sales](https://user-images.githubuse
 Data Analysis
 -----------------------------
 
-Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. It is done after data exploration and cleaning. When we do data analysis we answer questions corresponding to our dataset.The questions we need to answer is the following:
+Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. It is done after data exploration and cleaning.
 
-1. What was the best month for sales? How much was earned that month?
-2. Which city had the highest number of sales?
-3. What time should we display advertisements to maximize likelihood of customer's buying product?
-4. What products are most often sold together?
-5. What product sold the most? Why do you think it sold the most?
